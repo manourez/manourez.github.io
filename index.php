@@ -1,5 +1,5 @@
-<?php include("../partials/header.php"); ?>
-  <link rel="stylesheet" href="../styles/landing.css">
+<?php include("partials/header.php"); ?>
+  <link rel="stylesheet" href="styles/landing.css">
 	<div class="container" id="diapo">
 		<div id="carouselExampleIndicators" class="carousel slide carousel-fade" data-ride="carousel">
 			<ol class="carousel-indicators">
@@ -41,4 +41,4 @@
 		</div>
 	</div>
 
-<?php include("../partials/footer.php"); ?>
+<?php include("partials/footer.php"); ?>
