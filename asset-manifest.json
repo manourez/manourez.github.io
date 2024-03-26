@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d5349a46.css",
+    "main.js": "/static/js/main.aea2b6ac.js",
+    "static/js/787.2dcca737.chunk.js": "/static/js/787.2dcca737.chunk.js",
+    "static/media/aroliwebsite.png": "/static/media/aroliwebsite.48935ca548b163de0966.png",
+    "static/media/passvisa.png": "/static/media/passvisa.2f393a812d44e9a43544.png",
+    "static/media/iddia.png": "/static/media/iddia.48a8160cb7ffa23df54d.png",
+    "static/media/afira.png": "/static/media/afira.4f0a0143075372bd9413.png",
+    "static/media/hadassashop.png": "/static/media/hadassashop.b31ef46c4bf0bf8d5cbc.png",
+    "static/media/letexto.png": "/static/media/letexto.6bff0f3eefe443b0dce7.png",
+    "static/media/photo.jpg": "/static/media/photo.9285f65f4e2edb8587d5.jpg",
+    "static/media/snedai.png": "/static/media/snedai.865e37ad923fb8211e21.png",
+    "static/media/bengaluru.jpeg": "/static/media/bengaluru.82d7b60edcbc2c45acbd.jpeg",
+    "static/media/zjsu.jpeg": "/static/media/zjsu.4af805786d3f78c260ae.jpeg",
+    "index.html": "/index.html",
+    "main.d5349a46.css.map": "/static/css/main.d5349a46.css.map",
+    "main.aea2b6ac.js.map": "/static/js/main.aea2b6ac.js.map",
+    "787.2dcca737.chunk.js.map": "/static/js/787.2dcca737.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5349a46.css",
+    "static/js/main.aea2b6ac.js"
+  ]
+}
